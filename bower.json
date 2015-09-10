@@ -1,0 +1,8 @@
+{
+  "name": "tsm-m-pray",
+  "private": true,
+  "dependencies": {
+    "jquery": "https://github.com/jquery/jquery.git",
+    "zepto" : "*"
+  }
+}
